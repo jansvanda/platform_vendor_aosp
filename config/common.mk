@@ -38,6 +38,8 @@ PRODUCT_PACKAGES += \
     BluetoothExt \
     LatinIME \
     Launcher3 \
+    Camera \
+    Gallery \
     LiveWallpapers \
     LiveWallpapersPicker \
     Stk \
