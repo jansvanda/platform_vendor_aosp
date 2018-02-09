@@ -37,9 +37,13 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     BluetoothExt \
     LatinIME \
+<<<<<<< HEAD
     Launcher3 \
     Camera \
     Gallery \
+=======
+    Launcher \
+>>>>>>> c7d7657a04e7af00e32522f51635f34d933b70b6
     LiveWallpapers \
     LiveWallpapersPicker \
     Stk \
@@ -47,6 +51,9 @@ PRODUCT_PACKAGES += \
     ViaBrowser \
     AEXPapers \
     RetroMusicPlayer \
+    Gallery \
+    Camera \
+    Messages \
     WallpaperPickerGoogle
 
 # Themes
